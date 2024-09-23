@@ -1,7 +1,7 @@
 # Pricing Table
 
 ## Summary
-This sample transforms list items into cards formatted with pricing table layouts. To ensure the view functions correctly, make sure all specified columns are included.
+This sample transforms list items into cards formatted with pricing table layouts. To ensure the view functions correctly, make sure all specified columns are included. For the Features section in the pricing table, populate the Feature column with all the values separated by semicolons.
 
 ![screenshot of the sample 1](./assets/ListViewFormatter.png)
 <br>
@@ -16,9 +16,11 @@ This sample transforms list items into cards formatted with pricing table layout
 |Single line of text|AmountPrefix   |        |
 |Single line of text|BackgroundColorCode   |        |
 |Single line of text|ColorCode   |        |
+|Multiple lines of text|Features   |        |
 |Hyperlink or Picture|Link   |        |
 
 - Make sure to use the Gallery View and include all the specified fields in the view.
+- For the Features section in the pricing table, populate the Feature column with all the values separated by semicolons.
 
 ## Sample
 
