@@ -9,7 +9,7 @@ Column Formatting (JSON)
 ## Applied To 
 Date and Time column (any date field)
 
-##### Example
+## Example
 ![screenshot of the sample 1](./assets/asset1.png)
 
 ## Sample
