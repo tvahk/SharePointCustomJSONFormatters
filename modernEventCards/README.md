@@ -13,7 +13,7 @@ The date badge floats on top of each card with a shadow effect, making it easy t
 |Single line of text|Title        |Yes     |
 |Multiple lines of text|Description  |Yes     |
 |Date and Time      |EventDate    |Yes     |
-|Single line of text|LinkUrl      |No      |
+|Hyperlink or Picture|LinkUrl      |No      |
 |Single line of text|LinkText     |No      |
 
 - Use the **Gallery View** (Tiles layout)
